@@ -1,3 +1,11 @@
 *.idea*
 *.DS_Store*
 *postgres-data*
+
+Exercises/Exercise-3/cc_file*
+Exercises/Exercise-4/data/*
+Exercises/Exercise-6/data/*
+Exercises/Exercise-6/repo*
+Exercises/Exercise-6/metastore*
+Exercises/Exercise-6/derby*
+Exercises/Exercise-8/evp*
